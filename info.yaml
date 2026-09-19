@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     475558255443408897       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "heart"      # Project title
+  title:        "Tiny Tapeout Heart"      # Project title
   author:       "Arabela Martizano"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "for cutesy"      # One line description of what your project does
